@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duchieu1410
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++ & c#
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me no way
 
 <!---
